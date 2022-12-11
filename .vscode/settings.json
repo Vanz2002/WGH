@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a56829b-9a43-41a7-bc12-f1bf2e58cd04/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/We-Go-Healthy",
+    "appService.deploySubpath": "."
+}

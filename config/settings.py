@@ -7,7 +7,7 @@ SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = config('DEBUG')
 
-ALLOWED_HOSTS = ['*', 'https://wegohealthy.azurewebsites.net/']
+ALLOWED_HOSTS = ['*', 'https://we-go-healthy.azurewebsites.net/']
 
 
 # Application definition
